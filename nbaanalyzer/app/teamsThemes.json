@@ -1,0 +1,122 @@
+[
+    {
+        "teamAbbriviation": "dal",
+        "color": "blue"
+    },
+    {
+        "teamAbbriviation": "ind",
+        "color": "yellow"
+    },
+    {
+        "teamAbbriviation": "lac",
+        "color": "gray"
+    },
+    {
+        "teamAbbriviation": "phx",
+        "color": "purple"
+    },
+    {
+        "teamAbbriviation": "mil",
+        "color": "emerald"
+    },
+    {
+        "teamAbbriviation": "det",
+        "color": "red"
+    },
+    {
+        "teamAbbriviation": "bos",
+        "color": "green"
+    },
+    {
+        "teamAbbriviation": "bkn",
+        "color": "slate"
+    },
+    {
+        "teamAbbriviation": "nyk",
+        "color": "amber"
+    },
+    {
+        "teamAbbriviation": "phi",
+        "color": "red"
+    },
+    {
+        "teamAbbriviation": "tor",
+        "color": "red"
+    },
+    {
+        "teamAbbriviation": "gsw",
+        "color": "yellow"
+    },
+    {
+        "teamAbbriviation": "lal",
+        "color": "fuchsia"
+    },
+    {
+        "teamAbbriviation": "sac",
+        "color": "purple"
+    },
+    {
+        "teamAbbriviation": "chi",
+        "color": "red"
+    },
+    {
+        "teamAbbriviation": "cle",
+        "color": "amber"
+    },
+    {
+        "teamAbbriviation": "atl",
+        "color": "red"
+    },
+    {
+        "teamAbbriviation": "cha",
+        "color": "cyan"
+    },
+    {
+        "teamAbbriviation": "mia",
+        "color": "red"
+    },
+    {
+        "teamAbbriviation": "orl",
+        "color": "sky"
+    },
+    {
+        "teamAbbriviation": "was",
+        "color": "indigo"
+    },
+    {
+        "teamAbbriviation": "den",
+        "color": "amber"
+    },
+    {
+        "teamAbbriviation": "min",
+        "color": "indigo"
+    },
+    {
+        "teamAbbriviation": "okc",
+        "color": "orange"
+    },
+    {
+        "teamAbbriviation": "por",
+        "color": "red"
+    },
+    {
+        "teamAbbriviation": "uta",
+        "color": "indigo"
+    },
+    {
+        "teamAbbriviation": "hou",
+        "color": "red"
+    },
+    {
+        "teamAbbriviation": "mem",
+        "color": "sky"
+    },
+    {
+        "teamAbbriviation": "nop",
+        "color": "red"
+    },
+    {
+        "teamAbbriviation": "sas",
+        "color": "gray"
+    }
+]
